@@ -1,4 +1,4 @@
-# ProjectX
+# Project X
  Geocoding Proxy Service
 
 This project is a simple network service that can resolve the <lat, lng> coordinates for an address
