@@ -1,0 +1,5 @@
+Here are a few improvement that are needed to make this really "production ready" code:
+
+1. Improve construction of address from the responses
+2. Ability to choose which geolocation service to use
+3. Add more geo location providers
