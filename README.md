@@ -1,7 +1,7 @@
 # ProjectX
  Geocoding Proxy Service
 
-This project is a simple network service that can resolve the lat, lng coordinates for an address
+This project is a simple network service that can resolve the <lat, lng> coordinates for an address
 by using third party geocoding services. The service should provide a RESTful HTTP interface and
 use JSON for data serialization.
 
