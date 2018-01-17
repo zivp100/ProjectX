@@ -2,8 +2,9 @@ Example test cases:
 
 Test case #1
 Request: http://127.0.0.1:5000/location/40.714244/-73.961452
-Response : "Address is: 277 Bedford Ave NY US"
+Response : "Address is: 277 Bedford Ave, Brooklyn, NY 11211, USA"
 
 Test case #2
 Request : http://127.0.0.1:5000/location/47.64054/-122.12934
-Response "Address is: 3350 Microsoft Way WA US"
+Response "Address is: 3350 Microsoft Way, Redmond, WA 98052, USA" when using Google
+Response "Address is: '157th Pl NE, Redmond, WA 98052, US" when using Map Quest
